@@ -1,0 +1,2 @@
+# MinimalAdventures
+Minimalist Blog
